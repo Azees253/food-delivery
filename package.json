@@ -1,12 +1,10 @@
 {
-  "homepage": "https://azees253.github/food-delivery",
+  "homepage": "https://azees253.github.io/food-delivery/",
   "name": "food-delivery",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
